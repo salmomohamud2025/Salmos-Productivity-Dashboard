@@ -64,16 +64,16 @@ Personal project — developed, configured, and maintained independently.# Salmo
 A Python-based personal productivity system built with local storage, integrations, authentication, and remote access.
 ## Dashboard Preview
 
-Here are some screenshots of the application running on Ubuntu Linux.
+Below are screenshots of the productivity dashboard running on Ubuntu Linux.
 
 ### Main Dashboard
-![Main Dashboard](images/dashboard-home.png)
+![Main Dashboard](images/Screenshot%20From%202026-11-25%2017-25-42.png)
 
-### Calendar
-![Calendar](images/dashboard-calendar.png)
+### Calendar View
+![Calendar View](images/Screenshot%20From%202026-11-25%2017-25-55.png)
 
-### Reminders
-![Reminders](images/dashboard-reminders.png)
+### Reminders View
+![Reminders View](images/Screenshot%20From%202026-11-25%2017-26-06.png)
 
 ### Dashboard Overview
-![Dashboard Overview](images/dashboard-overview.png)
+![Dashboard Overview](images/Screenshot%20From%202026-11-25%2017-26-15.png)
