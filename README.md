@@ -62,3 +62,18 @@ Personal information, credentials, authentication files, and private dashboard d
 
 Personal project — developed, configured, and maintained independently.# Salmos-Productivity-Dashboard
 A Python-based personal productivity system built with local storage, integrations, authentication, and remote access.
+## Dashboard Preview
+
+Here are some screenshots of the application running on Ubuntu Linux.
+
+### Main Dashboard
+![Main Dashboard](images/dashboard-home.png)
+
+### Calendar
+![Calendar](images/dashboard-calendar.png)
+
+### Reminders
+![Reminders](images/dashboard-reminders.png)
+
+### Dashboard Overview
+![Dashboard Overview](images/dashboard-overview.png)
